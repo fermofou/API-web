@@ -14,9 +14,11 @@ This project allows us to keep tabs on different aspects about a plants wellbein
    * We added a fotovoltaic resistance to see the current light it receives, and turns on a led light (in preference, turn on a LED grow bulb).
 * Movement sensor
    * This PIR  sensorschecks if there is movement that affects the plant, such as wind and/or animals.
- 
+
+We added all our data measured to an mySQL server, and we made our dashboard using Looker.
+
   ## Dashboard: https://lookerstudio.google.com/reporting/98638818-5ba9-4e56-a093-f12c14b2fe23
   <img width="960" alt="Captura de pantalla 2023-11-30 212200" src="https://github.com/fermofou/PlantGPT/assets/122712372/a18bfb16-ba39-4ad5-9ecf-d193a0943be5">
 
-  
+  ## Image of our prototype:
 ![WhatsApp Image 2023-11-25 at 11 47 20 PM](https://github.com/fermofou/PlantGPT/assets/122712372/dcf55b68-0082-4fc1-9566-33e77b1710d2)
